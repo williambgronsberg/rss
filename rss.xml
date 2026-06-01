@@ -6,6 +6,13 @@
     <description>Power Automate test feed</description>
 
     <item>
+      <title>ja</title>
+      <link>https://example.com/1</link>
+      <description>Test item 1</description>
+      <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
+      <guid>2</guid>
+    </item>
+    <item>
       <title>nei</title>
       <link>https://example.com/1</link>
       <description>Test item 1</description>
