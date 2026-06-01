@@ -4,7 +4,13 @@
     <title>Test RSS Feed</title>
     <link>https://yourusername.github.io/rss-test</link>
     <description>Power Automate test feed</description>
-
+    <item>
+      <title>testing</title>
+      <link>https://example.com/3</link>
+      <description>Test item 3</description>
+      <pubDate>Mon, 02 Jun 2026 12:00:00 GMT</pubDate>
+      <guid>3</guid>
+    </item>
     <item>
       <title>ja</title>
       <link>https://example.com/1</link>
