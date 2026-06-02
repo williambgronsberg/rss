@@ -1,59 +1,64 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
     <title>Test RSS Feed</title>
-    <link>https://yourusername.github.io/rss-test</link>
+    <link>https://williambgronsberg.github.io/rss/</link>
     <description>Power Automate test feed</description>
-
 
     <item>
       <title>jefsjrrtfosiejdfgdggdfgfiojseoifjsiojefis</title>
       <link>https://examsedfgdfsple.com/1</link>
       <description>Test ifdtsefsfsfem 1</description>
-      <pubDate>Mon, 04 Jun 2026 12:00:00 GMT</pubDate>
-      <guid>68</guid>
+      <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">68</guid>
     </item>
+
     <item>
       <title>jefsjrfosiejdfgdggdfgfiojseoifjsiojefis</title>
       <link>https://examsedfgdfsple.com/1</link>
       <description>Test itsefsfsfem 1</description>
-      <pubDate>Mon, 03 Jun 2026 12:00:00 GMT</pubDate>
-      <guid>67</guid>
+      <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">67</guid>
     </item>
+
     <item>
       <title>jefsjrfosiejfiojseoifjsiojefis</title>
       <link>https://examsefsple.com/1</link>
       <description>Test itsefsfsfem 1</description>
-      <pubDate>Mon, 02 Jun 2026 12:00:00 GMT</pubDate>
-      <guid>66</guid>
+      <pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">66</guid>
     </item>
+
     <item>
       <title>jefsjrfosiejfiojseoifjsiojefis</title>
       <link>https://example.com/1</link>
       <description>Test item 1</description>
       <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
-      <guid>55</guid>
+      <guid isPermaLink="false">55</guid>
     </item>
+
     <item>
       <title>testing</title>
       <link>https://example.com/3</link>
       <description>Test item 3</description>
-      <pubDate>Mon, 02 Jun 2026 12:00:00 GMT</pubDate>
-      <guid>3</guid>
+      <pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">3</guid>
     </item>
+
     <item>
       <title>ja</title>
       <link>https://example.com/1</link>
       <description>Test item 1</description>
       <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
-      <guid>2</guid>
+      <guid isPermaLink="false">2</guid>
     </item>
+
     <item>
       <title>nei</title>
       <link>https://example.com/1</link>
       <description>Test item 1</description>
       <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
-      <guid>1</guid>
+      <guid isPermaLink="false">1</guid>
     </item>
 
   </channel>
